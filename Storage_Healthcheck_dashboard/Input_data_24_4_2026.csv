@@ -1,0 +1,137 @@
+DeviceType,DeviceName,UserName,Password
+Pure Storage Devices,DLBYPURE01,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE02,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE03,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE04,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE05,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE06,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE07,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE08,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,"DLBYPURE09	",ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYLABPURE01,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE10,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,DLBYPURE11,ro-api-dl-storage,PtfM=ng{j3S1&7Fw
+Pure Storage Devices,KCBYPURE01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE02,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE03,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE04,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE05,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE06,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE07,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE08,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE09,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCBYPURE10,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPURE01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPURE02,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPURE03,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPURE04,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPURE05,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPURE06,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,FR1BYPURE01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,FR1BYPURE02,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,FR1BYPURE03,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,FR1BYPURE04,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,DLJDAPUREMCFB01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,FR1BYPUREMCFB01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,KCJDAPUREMCFB01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,SL1BYPUREMCFB01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,LD8BYPUREFB01,ro-api-storage,GGNh83wWVZK&EjGC
+Pure Storage Devices,AM7BYPUREFB01,ro-api-storage,GGNh83wWVZK&EjGC
+DellEMC Devices,KCJDAUnity01,ro-api-storage@jdadelivers.com,GGNh83wWVZK&EjGC
+DellEMC Devices,KCJDAUnity02,ro-api-storage@jdadelivers.com,GGNh83wWVZK&EjGC
+DellEMC Devices,DLJDAUnity01,ro-api-storage@jdadelivers.com,GGNh83wWVZK&EjGC
+DellEMC Devices,DLJDAUnity02,ro-api-storage@jdadelivers.com,GGNh83wWVZK&EjGC
+DellEMC Devices,DLJDAUnity03,ro-api-storage@jdadelivers.com,GGNh83wWVZK&EjGC
+DellEMC Devices,DLJDAUnity04,ro-api-storage@jdadelivers.com,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BRXSW01,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,SL1BRXSW02,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,KCBRXSW01,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,KCBRXSW02,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,KCBRXSW03,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,KCBRXSW04,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,DLBRXSW01,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,DLBRXSW02,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,DLBRXSW03,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,DLBRXSW04,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,FR1BRSW05,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,FR1BRSW06,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,FR1BRSW07,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,FR1BRSW08,_mgmt_sanswitch_ro,j7{$J%4TgKeMEB}R
+Brocade Switches,FR1BCD01-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD01-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD02-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD02-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD03-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD03-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD04-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,FR1BCD04-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD01-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD01-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD02-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD02-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD03-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD03-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD04-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD04-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD05-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,SL1BCD05-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD01-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD01-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD02-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD02-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD03-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD03-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD04-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD04-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD05-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD05-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD06-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD06-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD07-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD07-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD08-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD08-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD09-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD09-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD10-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD10-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD11-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD11-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD12-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD12-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD13-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD13-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD14-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD14-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD15-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD15-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD16-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,DLBCD16-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD01-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD01-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD02-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD02-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD03-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD03-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD04-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD04-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD05-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD05-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD06-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD06-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD07-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD07-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD08-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD08-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD09-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD09-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD10-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD10-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD11-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD11-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD12-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD12-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD13-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD13-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD14-B1,ro_api_sanswitch,GGNh83wWVZK&EjGC
+Brocade Switches,KCBCD14-B2,ro_api_sanswitch,GGNh83wWVZK&EjGC
