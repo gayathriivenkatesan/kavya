@@ -1,0 +1,9 @@
+servername,serverip,domainname,dnsservername,Vcentername,user_security_group,bigfixserver
+DLHANDEVSAP1V,10.121.32.9,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+DLHANDEVSS1V,10.121.32.10,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+DLHANDEVSSDA1V,10.121.32.11,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+DLHANDEVSSDB1V,10.121.32.229,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+DLHANTSTSAP1V,10.121.32.17,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+DLHANTSTSS1V,10.121.32.18,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+DLHANTSTSSDA1V,10.121.32.16,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+dlhantstssdb1v,10.121.32.235,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,

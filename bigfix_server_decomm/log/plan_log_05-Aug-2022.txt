@@ -1,0 +1,54 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220805184122
+Username: JDADELIVERS\SYSTEM
+RunAs User: JDADELIVERS\SYSTEM
+Configuration Name: 
+Machine: vincromi0019 (Microsoft Windows NT 10.0.17763.0)
+Host Application: powershell.exe -command C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1 -filepath 'C:\xampp\htdocs\server_decomm\bigfix_server_decomm\server_cleanup_common_input.csv' -destinationfile 'bigfix_deletion_log_05_08_2022_03_11.html'-username '1033829' -password 'MShivu@1927*' -sfcase '123456' -res 'FlAsH@3300939399' -Verb RunAs
+Process ID: 44304
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\xampp\htdocs\server_decomm\bigfix_server_decomm\log\plan_log_05-Aug-2022.txt
+PS>TerminatingError(New-Object): "Cannot find an overload for "PSCredential" and the argument count: "2"."
+New-Object : Cannot find an overload for "PSCredential" and the argument count: "2".
+At C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1:33 char:9
++ $cred = New-Object -TypeName System.Management.Automation.PSCredentia ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [New-Object], MethodException
+    + FullyQualifiedErrorId : ConstructorInvokedThrowException,Microsoft.PowerShell.Commands.NewObjectCommand
+New-Object : Cannot find an overload for "PSCredential" and the argument count: "2".
+At C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1:33 char:9
++ $cred = New-Object -TypeName System.Management.Automation.PSCredentia ...
++         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [New-Object], MethodException
+    + FullyQualifiedErrorId : ConstructorInvokedThrowException,Microsoft.PowerShell.Commands.NewObjectCommand
+
+PS>TerminatingError(Invoke-RestMethod): "HTTP 401: Unauthorized"
+Invoke-RestMethod : HTTP 401: Unauthorized
+At C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1:48 char:21
++ ...   $status = Invoke-RestMethod -Method Delete -Credential $cred -Heade ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : HTTP 401: Unauthorized
+At C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1:48 char:21
++ ...   $status = Invoke-RestMethod -Method Delete -Credential $cred -Heade ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+dljdainodb2v -Server unable to Delete
+
+**********************
+Windows PowerShell transcript end
+End time: 20220805184127
+**********************

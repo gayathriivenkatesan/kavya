@@ -1,0 +1,44 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220809105430
+Username: JDADELIVERS\SYSTEM
+RunAs User: JDADELIVERS\SYSTEM
+Configuration Name: 
+Machine: vincromi0019 (Microsoft Windows NT 10.0.17763.0)
+Host Application: powershell.exe -command C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1 -filepath 'C:\xampp\htdocs\server_decomm\bigfix_server_decomm\server_cleanup_common_input.csv' -destinationfile 'bigfix_deletion_log_09_08_2022_07_23.html'-username '1033829' -password 'MShivu@1927*' -sfcase '123355' -res 'FlAsH@3300939399' -Verb RunAs
+Process ID: 13452
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\xampp\htdocs\server_decomm\bigfix_server_decomm\log\plan_log_09-Aug-2022.txt
+FR1VITSTCW1V
+FR1AVITSTDB1V
+FR1AVITSTDB2V
+FR1AVITSTDB3V
+FR1AVITSTRA1V
+FR1AVITSTSA1V
+FR1AVITSTW1V
+FR1AVITSTW2V
+FR1AVITSTW3V
+FR1AVITSTW4V
+fr1vitstcw1v -Server unable to Delete
+fr1avitstdb1v -Server Deleted
+fr1avitstdb2v -Server Deleted
+fr1avitstdb3v -Server Deleted
+fr1avitstra1v -Server Deleted
+fr1avitstsa1v -Server Deleted
+fr1avitstw1v -Server Deleted
+fr1avitstw2v -Server Deleted
+fr1avitstw3v -Server Deleted
+fr1avitstw4v -Server Deleted
+
+**********************
+Windows PowerShell transcript end
+End time: 20220809105441
+**********************

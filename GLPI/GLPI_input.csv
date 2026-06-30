@@ -1,0 +1,2 @@
+servername,serverip,domainname,dnsservername,Vcentername,user_security_group
+DLMBUTSTCSG1V,10.29.157.1,JDADELIVERS.COM,scdc02,csvc02.jdadelivers.com,

@@ -1,0 +1,11 @@
+servername,serverip,domainname,dnsservername,Vcentername,user_security_group,bigfixserver
+prba731443011,10.56.11.169,jdadelivers.com,scdc01,,GRP-SEC-3044-SCPO-ConsultingUsers,
+prba731437011,10.56.11.168,jdadelivers.com,scdc01,,,
+prba731431011,10.56.11.170,jdadelivers.com,scdc01,,,
+prba731430011,10.56.11.167,jdadelivers.com,scdc01,,,
+prba731426011,10.56.11.166,jdadelivers.com,scdc01,,,
+prba731403011,10.56.11.171,jdadelivers.com,scdc01,,,
+prba731402012,10.56.11.164,jdadelivers.com,scdc01,,,
+prba731402011,10.56.11.165,jdadelivers.com,scdc01,,,
+prba731454001,10.178.151.14,jdadelivers.com,scdc01,,,
+prba731405001,10.178.151.13,jdadelivers.com,scdc01,,,

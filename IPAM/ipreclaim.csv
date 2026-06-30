@@ -1,0 +1,4 @@
+servername,serverip,domainname,dnsservername,Vcentername,user_security_group,bigfixserver
+FMXPGEDIPRD1N1,10.25.25.147,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+FMXPGEDIPRD1N2,10.25.25.148,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,
+FMXPGLAPRD03,10.25.25.28,jdadelivers.com,scdc01,csvc02.jdadelivers.com,,

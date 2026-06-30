@@ -1,0 +1,55 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220921105159
+Username: JDADELIVERS\SYSTEM
+RunAs User: JDADELIVERS\SYSTEM
+Configuration Name: 
+Machine: vincromi0019 (Microsoft Windows NT 10.0.17763.0)
+Host Application: powershell.exe -command C:\xampp\htdocs\server_decomm\bigfix_server_decomm\decommission_servers.ps1 -filepath 'C:\xampp\htdocs\server_decomm\bigfix_server_decomm\server_cleanup_common_input.csv' -destinationfile 'bigfix_deletion_log_21_09_2022_07_21.html'-username '1033829' -password 'MShivu@1927*' -sfcase '51917537' -res 'FlAsH@3300939399' -Verb RunAs
+Process ID: 4384
+PSVersion: 5.1.17763.2931
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.2931
+BuildVersion: 10.0.17763.2931
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\xampp\htdocs\server_decomm\bigfix_server_decomm\log\plan_log_21-Sep-2022.txt
+FR1AVIDEVW1V.jdadelivers.com
+FR1AVITSTA1V
+FR1AVITSTA2V
+FR1AVITSTA3V
+fr1avidevw1v -Server unable to Delete
+fr1avitsta1v -Server unable to Delete
+fr1avitsta2v -Server unable to Delete
+fr1avitsta3v -Server unable to Delete
+
+sfcase        : 51917537
+Computer Name : fr1avidevw1v
+ID            : NULL
+Status        : server not found - Unable to Decommission
+
+
+sfcase        : 51917537
+Computer Name : fr1avitsta1v
+ID            : NULL
+Status        : server not found - Unable to Decommission
+
+
+sfcase        : 51917537
+Computer Name : fr1avitsta2v
+ID            : NULL
+Status        : server not found - Unable to Decommission
+
+
+sfcase        : 51917537
+Computer Name : fr1avitsta3v
+ID            : NULL
+Status        : server not found - Unable to Decommission
+
+**********************
+Windows PowerShell transcript end
+End time: 20220921105203
+**********************
